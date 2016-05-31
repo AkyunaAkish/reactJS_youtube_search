@@ -1,0 +1,48 @@
+body {
+  background: url("./nature_stars.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.search-bar {
+  margin: 20px;
+  text-align: center;
+}
+
+.search-bar input{
+  width: 75%;
+}
+
+.video-item img {
+  max-width: 64px;
+}
+
+.video-detail {
+  margin-bottom: 20px;
+  color: white;
+}
+
+.loadingText {
+  width: 100%;
+  margin: 0 auto;
+  color: white;
+  font-size: 2em;
+  text-align: center;
+}
+
+.video-detail .details {
+  margin-top: 10px;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.list-group-item {
+  cursor: pointer;
+}
+
+.list-group-item:hover {
+  background-color: #eee;
+}
