@@ -1,0 +1,9 @@
+{
+  "firebase": "react-youtube-search",
+  "public": ".",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
