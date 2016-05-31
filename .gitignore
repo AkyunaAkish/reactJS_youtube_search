@@ -4,4 +4,6 @@ npm-debug.log
 
 # IntelliJ
 *.iml
-/.ideanode_modules
+/.idea
+node_modules
+test
